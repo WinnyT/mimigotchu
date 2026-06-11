@@ -1,9 +1,12 @@
-# Mimigotchi: a non distractable reminder
-This pet will help me reduce my screen time by playing hide-and-seek with me, so I can stay away from my phone! To be specific, they will play sound when I was doing a task for too long and run away so have to stand up and find them. Potential turn into a stress reliever
+# Mimigotchu: a non-distractible reminder
+This pet will help me reduce my screen time by playing hide-and-seek with me, so I can stay away from my phone! To be specific, they will play sound when I was doing a task for too long and run away so have to stand up and find them. Potential turn into a stress reliever.
+
+<img width="402" height="565" alt="image" src="https://github.com/user-attachments/assets/e2946495-3763-4348-b23e-6f61bccd0cf3" />
+
 # How to build
 1. 3D print the pet case and wheels
 2. Solder all the component of the PCB on to the PCB
-3. Screw the PCB on to the upper case
+3. Screw the PCB on to the upper case using the M3 bolt 
 4. Put on the rubber band to the wheels
 5. Place the motor on the **Right Bottom** corner, it should fit the motor holder case
 6. Put the stick in between the hole. **THEN** put on the wheels. Do the same for both front and back
@@ -44,7 +47,10 @@ Back
 
 <img width="575" height="345" alt="image" src="https://github.com/user-attachments/assets/7e37e917-98e2-4815-a4ff-64facc8fed87" />
 
+# Firmware
+[Download latest firmware](
 # BOM
+Check out mimigotchu_bom.csv or [this](https://docs.google.com/spreadsheets/d/1_V7xxnciXNeib1qt1jn1ameioscYv5FXHhLbUMrxZ48/edit?usp=sharing) link.
 
 # Easter Egg
 If you finished a study session ( 50+ minutes) your pet will be happier !!
