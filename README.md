@@ -55,7 +55,7 @@ Back
 
 You can flash Mimigotchi without installing PlatformIO.
 
-[Download latest firmware](https://github.com/WinnyT/mimigotchu/releases/download/v1.0.0/firmware.bin)
+[Download latest firmware](https://github.com/WinnyT/mimigotchu/releases/tag/v1.0.0)
 
 ### Flash instructions (macOS/Windows/Linux)
 1. Install [esptool](https://docs.espressif.com/projects/esptool/en/latest/) via terminal:
@@ -63,12 +63,20 @@ You can flash Mimigotchi without installing PlatformIO.
 pip install esptool
 
 2. Connect your Mimigotchi via USB-C
-3. Run:
-esptool.py --port /dev/tty.usbmodem* write_flash 0x0 firmware.bin
-   On Windows, replace `/dev/tty.usbmodem*` with `COM3` (check Device Manager for your port)
+3. Download `bootloader.bin`, `partitions.bin`, and `firmware.bin` from the release
+4. Run (from the folder containing all three files):
+esptool.py --port /dev/tty.usbmodem* write_flash 
 
+0x0     bootloader.bin 
+
+0x8000  partitions.bin 
+
+0x10000 firmware.bin
+   On Windows, replace `/dev/tty.usbmodem*` with `COM3`
+   
 ### Build from source
 If you want to modify the code, open the project in VS Code with PlatformIO installed and press `Ctrl+Alt+B` to build, then `Ctrl+Alt+U` to upload.
+
 # BOM
 Check out `mimigotchu_bom.csv` or [this](https://docs.google.com/spreadsheets/d/1_V7xxnciXNeib1qt1jn1ameioscYv5FXHhLbUMrxZ48/edit?usp=sharing) link.
 
