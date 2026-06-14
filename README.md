@@ -1,7 +1,8 @@
 # Mimigotchu: a non-distractible reminder
 This pet will help me reduce my screen time by playing hide-and-seek with me, so I can stay away from my phone! To be specific, they will play sound when I was doing a task for too long and run away so have to stand up and find them. Potential turn into a stress reliever.
 
-<img width="402" height="565" alt="image" src="https://github.com/user-attachments/assets/e2946495-3763-4348-b23e-6f61bccd0cf3" />
+<img width="453" height="645" alt="image" src="https://github.com/user-attachments/assets/ca06256b-fcdf-4921-8858-2abe1175c9a6" />
+
 
 # How to build
 1. 3D print the pet case and wheels
