@@ -7,12 +7,19 @@ This pet will help me reduce my screen time by playing hide-and-seek with me, so
 # How to build
 1. 3D print the pet case and wheels
 2. Solder all the component of the PCB on to the PCB
-3. Screw the PCB on to the upper case using the M3 bolt 
-4. Put on the rubber band to the wheels
-5. Place the motor on the **Right Bottom** corner, it should fit the motor holder case
-6. Put the stick in between the hole. **THEN** put on the wheels. Do the same for both front and back
-7. Snap 2 case todether and connect the pet to your computer with a type-c cable
-8. Download the firmware file and upload it to XIAO ESP32
+   1. XIAO ESP32-C6 (SMD, center of board)
+   2. L293D motor driver (U3)
+   3. OLED header pins (U2)
+   4. Buttons SW1, SW2, SW3
+   5. Buzzer (BUZZER1)
+   6. Battery connector (BT1)
+   7. Motor connector (M1)
+4. Screw the PCB on to the upper case using the M3 bolt 
+5. Put on the rubber band to the wheels
+6. Place the motor on the **Right Bottom** corner, it should fit the motor holder case
+7. Put the stick in between the hole. **THEN** put on the wheels. Do the same for both front and back
+8. Snap 2 case todether and connect the pet to your computer with a type-c cable
+9. Download the firmware file and upload it to XIAO ESP32
 
 # How to use
 There are 3 buttons from LEFT to RIGHT. I'll call them Left - Middle - Right
@@ -51,6 +58,11 @@ Front
 Back
 
 <img width="575" height="345" alt="image" src="https://github.com/user-attachments/assets/7e37e917-98e2-4815-a4ff-64facc8fed87" />
+
+### Schematic
+
+<img width="1097" height="777" alt="image" src="https://github.com/user-attachments/assets/70342290-0ddb-4812-a186-a4f8aa7b29e8" />
+
 
 # Firmware
 
