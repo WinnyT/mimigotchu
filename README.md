@@ -51,6 +51,10 @@ I found myself addicted to phone, and I have tried many ways to reduce my screen
 [Link](https://cad.onshape.com/documents/57402c9fa2ee5a54f441007a/w/7d469114c9f1fb0e6882af3a/e/0b86f3f8cb59ff8acb8967de?renderMode=0&uiState=6a24c415eef755702476e8f7) to Onshape design. 
 
 # PCB
+
+[Download gebber file](https://github.com/WinnyT/mimigotchu/blob/main/assets/pcb/gebber/gebber.zip)
+
+
 Front
 
 <img width="365" height="264" alt="image" src="https://github.com/user-attachments/assets/9c586dce-db25-4eaa-a9d9-edabb440b5c8" />
