@@ -46,15 +46,26 @@ Pet mode: showing hapiness and age
 I found myself addicted to phone, and I have tried many ways to reduce my screen time like set a timer or use a timer lock down. But it never work. The problem I found with setting a timer is I leave it by my side, so it was too easy for me to turn it off and not getting away from my phone. I hope this robot can run away, make me stand up and catch them. _Sounds silly but what if it works ?.?_
 
 # CAD 
-<img width="545" height="537" alt="image" src="https://github.com/user-attachments/assets/c633280c-f429-4b9d-bf6c-2066cd988236" />
+
+<img width="541" height="550" alt="image" src="https://github.com/user-attachments/assets/671dd2f5-11c2-4e9b-b1cd-bda810b7a749" />
+
 
 [Link](https://cad.onshape.com/documents/57402c9fa2ee5a54f441007a/w/7d469114c9f1fb0e6882af3a/e/0b86f3f8cb59ff8acb8967de?renderMode=0&uiState=6a24c415eef755702476e8f7) to Onshape design. 
 
 # PCB
 
 [Download gebber file](https://github.com/WinnyT/mimigotchu/blob/main/assets/pcb/gebber/gebber.zip)
+### 3D view of the PCB
 
+Front
 
+<img width="321" height="618" alt="image" src="https://github.com/user-attachments/assets/6c3f02f4-7a8a-4ef4-aac3-24152046cf83" />
+
+Back
+
+<img width="289" height="514" alt="image" src="https://github.com/user-attachments/assets/687b615e-9ec3-4c2c-a051-80cd51eabd05" />
+
+### 3D model after assembly the PCB
 Front
 
 <img width="365" height="264" alt="image" src="https://github.com/user-attachments/assets/9c586dce-db25-4eaa-a9d9-edabb440b5c8" />
