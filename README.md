@@ -50,7 +50,7 @@ I found myself addicted to phone, and I have tried many ways to reduce my screen
 <img width="541" height="550" alt="image" src="https://github.com/user-attachments/assets/671dd2f5-11c2-4e9b-b1cd-bda810b7a749" />
 
 
-[Link](https://cad.onshape.com/documents/57402c9fa2ee5a54f441007a/w/7d469114c9f1fb0e6882af3a/e/0b86f3f8cb59ff8acb8967de?renderMode=0&uiState=6a24c415eef755702476e8f7) to Onshape design. 
+[Link](https://cad.onshape.com/documents/ca01db1265a55b9992933093/w/f260fb350e1b5b3a94a804f9/e/6405391140470b213134ba64) to Onshape design. 
 
 # PCB
 
