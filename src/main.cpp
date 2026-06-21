@@ -8,14 +8,14 @@
 #include <stdio.h>
 
 // ─── Pins ──────────────────────────────────────────────────────────
-#define BTN_RIGHT    GPIO_NUM_0
-#define BTN_MIDDLE   GPIO_NUM_1
-#define BTN_LEFT     GPIO_NUM_2
-#define BUZZER_PIN   GPIO_NUM_10
-#define SDA_PIN      GPIO_NUM_6
-#define SCL_PIN      GPIO_NUM_7
-#define MOTOR_INPUT1 GPIO_NUM_9
-#define MOTOR_INPUT2 GPIO_NUM_8
+#define BTN_RIGHT    GPIO_NUM_2    
+#define BTN_MIDDLE   GPIO_NUM_3    
+#define BTN_LEFT     GPIO_NUM_4    
+#define BUZZER_PIN   GPIO_NUM_10   
+#define SDA_PIN      GPIO_NUM_6    
+#define SCL_PIN      GPIO_NUM_7    
+#define MOTOR_INPUT1 GPIO_NUM_9    
+#define MOTOR_INPUT2 GPIO_NUM_8    
 
 // ─── I2C / OLED ────────────────────────────────────────────────────
 #define I2C_PORT     I2C_NUM_0
