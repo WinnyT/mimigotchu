@@ -83,7 +83,7 @@ Back
 
 You can flash Mimigotchi without installing PlatformIO.
 
-[Download latest firmware](https://github.com/WinnyT/mimigotchu/releases/tag/v1.0.0)
+[Download latest firmware](https://github.com/WinnyT/mimigotchu/releases/tag/v1.0.1)
 
 ### Flash instructions (macOS/Windows/Linux)
 1. Install [esptool](https://docs.espressif.com/projects/esptool/en/latest/) via terminal:
